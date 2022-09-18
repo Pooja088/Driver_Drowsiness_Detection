@@ -1,0 +1,9 @@
+Closed/
+haarcascades/
+no_yawn/
+Open/
+venv/
+yawn/
+*.jpg
+*.h5
+
